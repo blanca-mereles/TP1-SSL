@@ -9,7 +9,7 @@ punto_b () {
 }
 
 punto_c () {
-    grep '\S' breve_historia.txt | sed 's/\./\.\n/g' breve_historia.txt > breve_historia_c.txt
+    grep '\S' breve_historia.txt | sed 's/\./\.\n/g' breve_historia.txt > breve_historia_2.txt
 }
 
 punto_d () {
